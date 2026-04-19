@@ -111,7 +111,7 @@ Dashboard Visualizations
 
 The Power BI dashboard includes the following visuals:
 
-<img width="1395" height="795" alt="image" src="https://github.com/user-attachments/assets/814ca57c-6c51-4473-81c5-f4b12ce281bc" />
+<img width="1459" height="805" alt="image" src="https://github.com/user-attachments/assets/1dc2d945-6f1d-4f09-9acc-d7f7d237237f" />
 
 
 KPI Cards
